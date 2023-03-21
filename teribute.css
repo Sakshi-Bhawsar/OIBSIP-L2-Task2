@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    
+    min-height: 100vh;
+    font-family: 'Roboto Slab', serif;
+
+}
+section{
+  margin-top: 100px;
+  display: flex;
+  margin-bottom: 100px;
+
+}
+img{
+    margin-left: 260px;
+    height: 300px;
+    width: 350px;
+    border-radius: 150px;
+    overflow: hidden;
+}
+.apj{
+    margin-top: 100px;
+    margin-left: 70px;
+}
+.apj h1{
+    font-size: 20px;
+    margin: 10px;
+    align-items: center;
+    
+}
+
+.mid{
+    margin: 5px;
+}
+ h1{
+    margin: 10px;
+    padding: 15px;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ p{
+    
+    font-size: 20px;
+    align-items: center;
+    display: flex;
+    margin: 20px;
+    
+}
+
+
+
+
+
